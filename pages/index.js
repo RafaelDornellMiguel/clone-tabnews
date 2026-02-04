@@ -1,6 +1,6 @@
 function Home() {
   return (
-    <h1>Página em Construção</h1>
+    <h1>Página em Construção...</h1>
   );
 }
 
